@@ -1,0 +1,10 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:venv",
+    "cSpell.words": [
+        "genai",
+        "plotly",
+        "PUUID",
+        "riotwatcher",
+        "Streamlit"
+    ]
+}

@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+riot_cache.sqlite3
+riot_cache.sqlite3-shm
+riot_cache.sqlite3-wal
